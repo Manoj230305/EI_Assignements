@@ -44,7 +44,7 @@ Assignment_2/
 ## Cloning the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Manoj230305/EI_Assignements.git
 cd Assignment_2
 ```
 

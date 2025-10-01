@@ -65,7 +65,7 @@ EI Assignment/
 
 1. **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Manoj230305/EI_Assignements.git
     cd "EI Assignment"
     ```
 

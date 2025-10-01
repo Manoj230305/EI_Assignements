@@ -11,7 +11,7 @@ The patterns are organized into Behavioural, Creational, and Structural categori
 Clone this repository:
 
 ```sh
-git clone https://github.com/yourusername/ecommerce-design-patterns.git
+git clone https://github.com/Manoj230305/EI_Assignements.git
 cd Assignment_1
 ```
 
